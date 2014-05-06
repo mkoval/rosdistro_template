@@ -1,0 +1,80 @@
+facets:
+  arch: [ruby-facets]
+  osx:
+    macports: [rb-facets]
+  ubuntu:
+    lucid:
+      apt: [libfacets-ruby]
+    oneiric:
+      apt: [libfacets-ruby]
+    precise:
+      apt: [ruby-facets]
+    quantal:
+      apt: [ruby-facets]
+    raring:
+      apt: [ruby-facets]
+    saucy:
+      apt: [ruby-facets]
+    trusty:
+      apt: [ruby-facets]
+flexmock:
+  osx:
+    macports: [rb-flexmock]
+  ubuntu:
+    lucid:
+      apt: [libflexmock-ruby]
+    oneiric:
+      apt: [libflexmock-ruby]
+    precise:
+      apt: [ruby-flexmock]
+    quantal:
+      apt: [ruby-flexmock]
+    raring:
+      apt: [ruby-flexmock]
+    saucy:
+      apt: [ruby-flexmock]
+    trusty:
+      apt: [ruby-flexmock]
+hoe:
+  arch: [ruby-hoe]
+  ubuntu:
+    oneiric:
+      apt: [ruby-hoe]
+    precise:
+      apt: [ruby-hoe]
+    quantal:
+      apt: [ruby-hoe]
+    raring:
+      apt: [ruby-hoe]
+    saucy:
+      apt: [ruby-hoe]
+    trusty:
+      apt: [ruby-hoe]
+nokogiri:
+  arch: [ruby-nokogiri]
+  osx:
+    macports: [rb-nokogiri]
+  ubuntu:
+    lucid:
+      apt: [libnokogiri-ruby]
+    oneiric:
+      apt: [libnokogiri-ruby]
+    precise:
+      apt: [ruby-nokogiri]
+    quantal:
+      apt: [ruby-nokogiri]
+    raring:
+      apt: [ruby-nokogiri]
+    saucy:
+      apt: [ruby-nokogiri]
+    trusty:
+      apt: [ruby-nokogiri]
+rake:
+  arch: [ruby]
+  macports: [rb-rake]
+  ubuntu:
+    apt: [rake]
+rdoc:
+  arch: [ruby]
+  ubuntu:
+    apt: [rdoc]
